@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subham827&label=Profile%20views&color=0e75b6&style=flat" alt="subham827" /> </p>
 - 🔭 I’m a **DSA enthusiast and a MERN developer**
 
-- 🌱 I’m currently learning **C++ ,Java And IOT**
+- 🌱 I’m currently learning **C++ ,Python And IOT**
 
 - 👯 I’m looking to collaborate on **MERN Stack**
 
